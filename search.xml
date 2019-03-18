@@ -2,19 +2,8 @@
 <search>
   <entry>
     <title></title>
-    <url>%2F2019%2F02%2F20%2Ftest3%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test2]]></title>
-    <url>%2F2019%2F02%2F20%2Ftest2%2F</url>
-    <content type="text"><![CDATA[尝试在博文中添加图片 https://www.jianshu.com/p/c2ba9533088a 的]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-      </tags>
+    <url>%2F2019%2F03%2F18%2F%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6%2F</url>
+    <content type="text"><![CDATA[概率论与数理统计1.ppt2.ppt]]></content>
   </entry>
   <entry>
     <title><![CDATA[一些不一定有用的资源整理]]></title>
@@ -27,25 +16,6 @@
         <tag>资源</tag>
         <tag>不定时更新</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[test1]]></title>
-    <url>%2F2019%2F02%2F20%2Ftest1%2F</url>
-    <content type="text"><![CDATA[testtesttesttesttesttest]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[post title]]></title>
-    <url>%2F2019%2F02%2F20%2Fpost-title%2F</url>
-    <content type="text"><![CDATA[#标题 加粗 横线 无序列表 无序列表 有序列表1 有序列表2 内嵌代码 1代码块 引用]]></content>
-      <categories>
-        <category>瞎打</category>
-      </categories>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
