@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title></title>
+    <url>%2F2019%2F02%2F20%2Ftest3%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test2]]></title>
+    <url>%2F2019%2F02%2F20%2Ftest2%2F</url>
+    <content type="text"><![CDATA[尝试在博文中添加图片 https://www.jianshu.com/p/c2ba9533088a 的]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[一些不一定有用的资源整理]]></title>
+    <url>%2F2019%2F02%2F20%2Fresouse%2F</url>
+    <content type="text"><![CDATA[001. weavesilkhttp://weavesilk.com/绘画; 解压; 炫酷 002. Pixel Map Generatorhttps://pixelmap.amcharts.com/可视化地理图表生成 PhotoMoshhttps://photomosh.com/故障效果生成 Stars-Emmisionhttps://wangyasai.github.io/Stars-Emmision/放射图片生成 Flat Surface Shaderhttp://matthew.wagerfield.com/flat-surface-shader/low-poly背景制作#科学上网 wordarthttps://wordart.com/文字云生成 shapefactoryhttps://shapefactory.co/滤镜; 偷懒 easyiconhttps://www.easyicon.net/covert/icon图标转换]]></content>
+      <categories>
+        <category>资源</category>
+      </categories>
+      <tags>
+        <tag>资源</tag>
+        <tag>不定时更新</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test1]]></title>
+    <url>%2F2019%2F02%2F20%2Ftest1%2F</url>
+    <content type="text"><![CDATA[testtesttesttesttesttest]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[post title]]></title>
+    <url>%2F2019%2F02%2F20%2Fpost-title%2F</url>
+    <content type="text"><![CDATA[#标题 加粗 横线 无序列表 无序列表 有序列表1 有序列表2 内嵌代码 1代码块 引用]]></content>
+      <categories>
+        <category>瞎打</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F02%2F20%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
